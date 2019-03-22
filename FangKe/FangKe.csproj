@@ -185,6 +185,7 @@
     <Content Include="Content\picture\homebackground.jpg" />
     <Content Include="Content\picture\homebackground2.2.png" />
     <Content Include="Content\picture\homebackground2.png" />
+    <Content Include="Content\picture\sfcitylight.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
